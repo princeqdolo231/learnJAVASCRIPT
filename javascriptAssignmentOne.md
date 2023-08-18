@@ -31,4 +31,7 @@ Javascript variables is a containers used to stored data, in JavaScript their ar
 2. We use the **let** key word to stored data.
 3. And we also use the **const** key word to stored data as well.
 
+As for JavaScript **Data Types** we have 8 types of data types but we will only discuss 4 here.
+These four types are: **String,** **Numbers,** **Null,** and **Undefined,**
+
 
