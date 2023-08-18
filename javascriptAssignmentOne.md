@@ -1,7 +1,7 @@
-##JavaScript Chrash Course Review
+# JavaScript Chrash Course Review
 
 
-What is JavaScript?
+## What is JavaScript ?
 
 JavaScript is a high level, interpreted programing language that conforms to the ECMAScript specification.
 
@@ -9,15 +9,26 @@ It also a programming language with Multi-Paradigm which is you can write your J
 
 Lastly, Javascript is a programming language that run on both the browser and sever.
 
+Here are few important topics to look at in _JavaScriot_
+
 
 1. Variables and Data Types
 2. Arrays
 3. Objects Literals
-5. Methods for strings, arrays, objects, etc
-6. Loops - for, while, for...of, forEach, map
-7. Conditionals (if, ternary & switch)
-8. Functions (normal & arrow)
-9. OOP (prototypes & classes)
-10. DOM manipulation
+4. Methods for strings, arrays, objects, etc
+5. Loops - for, while, for...of, forEach, map
+6. Conditionals (if, ternary & switch)
+7. Functions (normal & arrow)
+8. OOP (prototypes & classes)
+9. DOM selection
+10. DOM Manipulation
 11. Events
-13. Basic form validation
+12. Basic form validation
+
+#### 1. Variables and Data Types
+Javascript variables is a containers used to stored data, in JavaScript their are three ways or mether we used to store variables.
+1. We use the **var** key word to stored data.
+2. We use the **let** key word to stored data.
+3. And we also use the **const** key word to stored data as well.
+
+
